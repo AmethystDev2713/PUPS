@@ -7,7 +7,7 @@ Copyright (c) 2025 AmethystDev2713. All rights reserved. Pending licensing.
 # What is this?
 Programming languages used today are great, but there is one small problem I've taken note of: they're only useable on the most common platforms, for the most part, as in Windows, Mac, and Linux, along with some unique cases like the CC65 project which includes a compiler for C to 6502 assembly, and some C to Z80 assembly programs out there.
 
-Why is this a problem? With more and more hobbyists creating their own computers, whether a proof of concept 4-Bit or something actually useable like the (Astro-8 by Sam Astro)[https://github.com/sam-astro/Astro8-Computer], they find themselves having to program in assembly. If you don't want to program in assembly, you can do what Astro did and make your own higher level language for your project, or you can use PUPS.
+Why is this a problem? With more and more hobbyists creating their own computers, whether a proof of concept 4-Bit or something actually useable like the [Astro-8 by Sam Astro](https://github.com/sam-astro/Astro8-Computer), they find themselves having to program in assembly. If you don't want to program in assembly, you can do what Astro did and make your own higher level language for your project, or you can use PUPS.
 
 PUPS is aimed at being a language designed to be simple, powerful, and most importantly, universally targetable, meaning it can be compiled for literally any platform out there. Give it your assembly and translation steps once, and compile from then on (as long as you save the necessary files).
 
